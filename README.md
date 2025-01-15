@@ -34,4 +34,5 @@ This repository contains an interactive Tableau Dashboard designed for HR analyt
 - **Data Sources**: CSV, Excel, or database queries for HR data.
 
 ---
-
+## Dashboard Link on Tableau Public
+[HR Analytics Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17203744416520/HRAnalyticsDashboards?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
